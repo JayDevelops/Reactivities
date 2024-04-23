@@ -1,0 +1,15 @@
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/bin/Debug/net8.0/Persistence.dll
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/bin/Debug/net8.0/Persistence.pdb
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/bin/Debug/net8.0/Domain.dll
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/bin/Debug/net8.0/Domain.pdb
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.dll
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
+/Users/jesusperez/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll

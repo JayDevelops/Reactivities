@@ -1,0 +1,17 @@
+/Users/jesusperez/RiderProjects/Reactivities/Application/bin/Debug/net8.0/Application.deps.json
+/Users/jesusperez/RiderProjects/Reactivities/Application/bin/Debug/net8.0/Application.dll
+/Users/jesusperez/RiderProjects/Reactivities/Application/bin/Debug/net8.0/Application.pdb
+/Users/jesusperez/RiderProjects/Reactivities/Application/bin/Debug/net8.0/Domain.dll
+/Users/jesusperez/RiderProjects/Reactivities/Application/bin/Debug/net8.0/Persistence.dll
+/Users/jesusperez/RiderProjects/Reactivities/Application/bin/Debug/net8.0/Domain.pdb
+/Users/jesusperez/RiderProjects/Reactivities/Application/bin/Debug/net8.0/Persistence.pdb
+/Users/jesusperez/RiderProjects/Reactivities/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/jesusperez/RiderProjects/Reactivities/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jesusperez/RiderProjects/Reactivities/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/jesusperez/RiderProjects/Reactivities/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/jesusperez/RiderProjects/Reactivities/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/jesusperez/RiderProjects/Reactivities/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/jesusperez/RiderProjects/Reactivities/Application/obj/Debug/net8.0/Application.dll
+/Users/jesusperez/RiderProjects/Reactivities/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/jesusperez/RiderProjects/Reactivities/Application/obj/Debug/net8.0/Application.pdb
+/Users/jesusperez/RiderProjects/Reactivities/Application/obj/Debug/net8.0/ref/Application.dll
