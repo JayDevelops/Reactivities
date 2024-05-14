@@ -1,15 +1,35 @@
 import './App.css'
 import { ThemeProvider } from "@/components/theme-provider"
 import { Button } from './components/ui/button'
-import { ModeToggle } from './components/mode-toggle'
+import { useEffect, useState } from 'react'
+import axios from 'axios'
+import { HeadingOne } from './components/Typography/Headers'
+import { List } from './components/Typography/Text'
 
 function App() {
+  const [activities, setActivities] = useState([]);
+
+  useEffect(() => {
+    axios.get('http://localhost:5000/api/activities')
+      .then(response => {
+        setActivities(response.data)
+      })
+  })
 
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
-      <h1 className="font-bold">Reactivities</h1>
+      <HeadingOne>
+        Reactivities
+      </HeadingOne>
       <Button>Hello</Button>
-      <ModeToggle />
+
+      <List>
+        {activities.map((activity: any)=> (
+          <li key={activity.id}>
+            {activity.title}
+          </li>
+        ))}
+      </List>
     </ThemeProvider>
   )
 }
